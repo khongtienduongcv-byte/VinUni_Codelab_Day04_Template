@@ -41,7 +41,9 @@
     "description": "Kỳ nghỉ 3N2Đ tại resort 5 sao Vinpearl Nha Trang, bao gồm bữa sáng buffet quốc tế, xe đưa đón sân bay.",
     "features": ["Hồ bơi vô cực", "Spa chuyên nghiệp", "Buffet sáng miễn phí", "Shuttle airport"],
     "availability": "in_stock",
-    "colors": []
+    "colors": [
+      "Bạc ánh sao","Cam sa mạc","Xanh mint"
+    ]
   },
   {
     "id": "PROD-005",
